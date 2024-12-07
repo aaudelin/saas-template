@@ -1,0 +1,28 @@
+type Query {
+    findEvent: String
+    findGoals: [Goal]
+}
+
+
+
+type Goal {
+    id: ID!
+    description: String
+    bricks: [Brick]
+}
+
+type Brick {
+    id: ID!
+    description: String
+    tasks: [Task]
+}
+
+type Task {
+    id: ID!
+    description: String
+    status: String
+}
+
+type Subscription {
+    newEvent: String
+}
