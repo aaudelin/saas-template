@@ -7,5 +7,5 @@ COPY build.gradle.kts ./
 COPY settings.gradle.kts ./
 COPY gradlew ./
 RUN ./gradlew build
-RUN mv build/libs/*.jar task-manager.jar
-ENTRYPOINT ["java","-jar","task-manager.jar"]
+RUN mv build/libs/*.jar app.jar
+ENTRYPOINT ["java","-jar","app.jar"]

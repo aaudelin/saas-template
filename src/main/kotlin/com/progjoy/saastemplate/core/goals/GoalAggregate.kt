@@ -1,6 +1,6 @@
-package com.progjoy.taskmanager.core.goals
+package com.progjoy.saastemplate.core.goals
 
-import com.progjoy.taskmanager.core.annotation.DDDAggregate
+import com.progjoy.saastemplate.core.annotation.DDDAggregate
 import java.util.Date
 
 @DDDAggregate

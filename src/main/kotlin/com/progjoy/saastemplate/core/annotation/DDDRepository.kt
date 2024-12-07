@@ -1,4 +1,4 @@
-package com.progjoy.taskmanager.core.annotation
+package com.progjoy.saastemplate.core.annotation
 
 @Target(AnnotationTarget.CLASS)
 @Retention(AnnotationRetention.RUNTIME)

@@ -1,7 +1,7 @@
-package com.progjoy.taskmanager.infrastructure.db.goals
+package com.progjoy.saastemplate.infrastructure.db.goals
 
-import com.progjoy.taskmanager.core.goals.Goal
-import com.progjoy.taskmanager.core.goals.outbound.LoadGoalRepository
+import com.progjoy.saastemplate.core.goals.Goal
+import com.progjoy.saastemplate.core.goals.outbound.LoadGoalRepository
 import org.springframework.data.repository.CrudRepository
 import org.springframework.stereotype.Repository
 

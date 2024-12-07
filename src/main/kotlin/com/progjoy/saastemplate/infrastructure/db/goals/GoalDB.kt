@@ -1,4 +1,4 @@
-package com.progjoy.taskmanager.infrastructure.db.goals
+package com.progjoy.saastemplate.infrastructure.db.goals
 
 import org.springframework.data.annotation.Id
 import org.springframework.data.relational.core.mapping.MappedCollection

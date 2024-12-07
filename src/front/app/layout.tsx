@@ -5,9 +5,10 @@ import { ThemeProvider } from "@/components/ThemeProvider";
 
 const inter = Inter({ subsets: ["latin"] });
 
+// TODO Change the metadata
 export const metadata: Metadata = {
-  title: "Task Manager",
-  description: "Manage your tasks with ease.",
+  title: "Saas Template",
+  description: "A template to create new Saas.",
 };
 
 export default function RootLayout({

@@ -1,4 +1,4 @@
-package com.progjoy.taskmanager
+package com.progjoy.saastemplate
 
 import org.springframework.boot.fromApplication
 import org.springframework.boot.with

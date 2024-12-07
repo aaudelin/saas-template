@@ -1,12 +1,12 @@
-package com.progjoy.taskmanager.infrastructure.db.goals
+package com.progjoy.saastemplate.infrastructure.db.goals
 
-import com.progjoy.taskmanager.core.goals.Brick
-import com.progjoy.taskmanager.core.goals.Description
-import com.progjoy.taskmanager.core.goals.Goal
-import com.progjoy.taskmanager.core.goals.Id
-import com.progjoy.taskmanager.core.goals.Task
-import com.progjoy.taskmanager.core.goals.TaskStatus
-import com.progjoy.taskmanager.core.goals.TimePeriod
+import com.progjoy.saastemplate.core.goals.Brick
+import com.progjoy.saastemplate.core.goals.Description
+import com.progjoy.saastemplate.core.goals.Goal
+import com.progjoy.saastemplate.core.goals.Id
+import com.progjoy.saastemplate.core.goals.Task
+import com.progjoy.saastemplate.core.goals.TaskStatus
+import com.progjoy.saastemplate.core.goals.TimePeriod
 import org.springframework.stereotype.Component
 
 @Component

@@ -1,8 +1,8 @@
-package com.progjoy.taskmanager.core.goals.inbound
+package com.progjoy.saastemplate.core.goals.inbound
 
-import com.progjoy.taskmanager.core.annotation.DDDUseCase
-import com.progjoy.taskmanager.core.goals.Goal
-import com.progjoy.taskmanager.core.goals.outbound.LoadGoalRepository
+import com.progjoy.saastemplate.core.annotation.DDDUseCase
+import com.progjoy.saastemplate.core.goals.Goal
+import com.progjoy.saastemplate.core.goals.outbound.LoadGoalRepository
 
 @FunctionalInterface
 interface FindGoalUseCase {

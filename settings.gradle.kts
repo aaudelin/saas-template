@@ -1,1 +1,2 @@
-rootProject.name = "task-manager"
+// TODO Change template name
+rootProject.name = "saas-template"

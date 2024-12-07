@@ -18,7 +18,7 @@ export default function MenuDropdown() {
           variant="ghost"
           className="px-0 py-0 hover:bg-background gap-4 focus-visible:ring-0 justify-start text-base"
         >
-          <span>Task Manager</span>
+          <span>Saas Template</span>
           <ChevronDown className="size-4" />
         </Button>
       </DropdownMenuTrigger>

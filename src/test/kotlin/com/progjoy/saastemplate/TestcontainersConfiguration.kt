@@ -1,4 +1,4 @@
-package com.progjoy.taskmanager
+package com.progjoy.saastemplate
 
 import org.springframework.boot.test.context.TestConfiguration
 import org.springframework.boot.testcontainers.service.connection.ServiceConnection

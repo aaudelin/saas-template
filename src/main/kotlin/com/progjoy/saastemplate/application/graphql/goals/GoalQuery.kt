@@ -1,7 +1,7 @@
-package com.progjoy.taskmanager.application.graphql.goals
+package com.progjoy.saastemplate.application.graphql.goals
 
-import com.progjoy.taskmanager.core.goals.Goal
-import com.progjoy.taskmanager.core.goals.inbound.FindGoalUseCase
+import com.progjoy.saastemplate.core.goals.Goal
+import com.progjoy.saastemplate.core.goals.inbound.FindGoalUseCase
 import org.springframework.graphql.data.method.annotation.QueryMapping
 import org.springframework.stereotype.Controller
 
